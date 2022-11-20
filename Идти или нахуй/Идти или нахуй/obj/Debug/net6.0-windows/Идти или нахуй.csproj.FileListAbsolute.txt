@@ -1,0 +1,17 @@
+C:\Users\Ivan\Desktop\Идти или нахуй\Идти или нахуй\bin\Debug\net6.0-windows\Идти или нахуй.exe
+C:\Users\Ivan\Desktop\Идти или нахуй\Идти или нахуй\bin\Debug\net6.0-windows\Идти или нахуй.deps.json
+C:\Users\Ivan\Desktop\Идти или нахуй\Идти или нахуй\bin\Debug\net6.0-windows\Идти или нахуй.runtimeconfig.json
+C:\Users\Ivan\Desktop\Идти или нахуй\Идти или нахуй\bin\Debug\net6.0-windows\Идти или нахуй.dll
+C:\Users\Ivan\Desktop\Идти или нахуй\Идти или нахуй\bin\Debug\net6.0-windows\Идти или нахуй.pdb
+C:\Users\Ivan\Desktop\Идти или нахуй\Идти или нахуй\obj\Debug\net6.0-windows\Идти или нахуй.csproj.AssemblyReference.cache
+C:\Users\Ivan\Desktop\Идти или нахуй\Идти или нахуй\obj\Debug\net6.0-windows\Идти_или_нахуй.Form1.resources
+C:\Users\Ivan\Desktop\Идти или нахуй\Идти или нахуй\obj\Debug\net6.0-windows\Идти или нахуй.csproj.GenerateResource.cache
+C:\Users\Ivan\Desktop\Идти или нахуй\Идти или нахуй\obj\Debug\net6.0-windows\Идти или нахуй.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\Desktop\Идти или нахуй\Идти или нахуй\obj\Debug\net6.0-windows\Идти или нахуй.AssemblyInfoInputs.cache
+C:\Users\Ivan\Desktop\Идти или нахуй\Идти или нахуй\obj\Debug\net6.0-windows\Идти или нахуй.AssemblyInfo.cs
+C:\Users\Ivan\Desktop\Идти или нахуй\Идти или нахуй\obj\Debug\net6.0-windows\Идти или нахуй.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\Идти или нахуй\Идти или нахуй\obj\Debug\net6.0-windows\Идти или нахуй.dll
+C:\Users\Ivan\Desktop\Идти или нахуй\Идти или нахуй\obj\Debug\net6.0-windows\refint\Идти или нахуй.dll
+C:\Users\Ivan\Desktop\Идти или нахуй\Идти или нахуй\obj\Debug\net6.0-windows\Идти или нахуй.pdb
+C:\Users\Ivan\Desktop\Идти или нахуй\Идти или нахуй\obj\Debug\net6.0-windows\Идти или нахуй.genruntimeconfig.cache
+C:\Users\Ivan\Desktop\Идти или нахуй\Идти или нахуй\obj\Debug\net6.0-windows\ref\Идти или нахуй.dll
